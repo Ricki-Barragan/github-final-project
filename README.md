@@ -11,7 +11,7 @@ After completing this lab, you would have demonstrated the following:
 	5.	Create a Contribution Guidelines markdown that tells the community how to contribute.
 	6.	Commit the new files to the repository.
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
-    ----------------------------------------------------------
+ 
 
 Input:
    p, principal amount
